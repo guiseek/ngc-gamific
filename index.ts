@@ -1,0 +1,1 @@
+export { NgcGamificModule } from './services/ngc-gamific.module';
